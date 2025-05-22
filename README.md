@@ -1,7 +1,7 @@
 # Exercise-9-Keyboard-Automation---Simulate-Keystrokes
 ~~~
-Name : M.JohnPall  
-Reg.No : 212224040140  
+Name : Vinolia Alaina .R
+Reg.No : 212224240184
 ~~~
 
 ## Aim
